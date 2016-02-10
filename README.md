@@ -13,6 +13,7 @@ Make some slack integrations and stuff.
 * Use webhook endpoint as `SLACK_WEBHOOK_URL` enviroment variable
 
 ### TODO
+* Make it work with custom **SlackBots**
 * Change usernames for every `[adj]-[noun]`
 * Change emoji-con for every post
 * Support Anon posting to other users/groups/channels. 
