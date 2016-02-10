@@ -15,7 +15,8 @@ Make some slack integrations and stuff.
 ### TODO
 * Change usernames for every `[adj]-[noun]`
 * Change emoji-con for every post
-* Support Anon posting to other channels. 
+* Support Anon posting to other users/groups/channels. 
+
 ## License
 
 [MIT](/LICENSE)
